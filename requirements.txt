@@ -1,0 +1,7 @@
+web3
+pyarrow
+pandas
+pyarrow
+polars
+cryo_python
+maturin
